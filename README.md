@@ -1,2 +1,2 @@
 # Wild-Rift
-Program Champion Multiple Versus (Python OOP) (Tugas Akhir 10119101)
+Pertarungan antar champion Wild Rift sebagai permainan sekuensial
